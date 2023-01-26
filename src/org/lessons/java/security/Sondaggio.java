@@ -18,11 +18,11 @@ public class Sondaggio {
 
 		System.out.print("Quanti studenti hanno mac?");
 
-		int Mac = input.nextInt();
+		int Mac =  input.nextInt();
 
 		int Totale = Mac + Windows + Linux;
 
-		double windowsTot = (Windows / (double)  Totale) * 100;
+		double windowsTot = (Windows / (double) Totale) * 100;
 		double linuxTot = (Linux / (double) Totale) * 100;
 		double macTot = (Mac / (double) Totale) * 100;
 
