@@ -9,7 +9,7 @@ public class Ferragni {
 		
 		
 			String[] ospiti= { 
-					"Dua Lipa","Paris Hilton", "Manuel Agnelli", "J-Ax","Francessco Totti","Ilary Blasi","Bebe Vio", "Luis", "Paradais Zarei", "Martina Maccherone","Rachel Zeili"
+					"Dua Lipa","Paris Hilton", "Manuel Agnelli", "J-Ax","Francesco Totti","Ilary Blasi","Bebe Vio", "Luis", "Paradais Zarei", "Martina Maccherone","Rachel Zeili"
 			};
 			
 			Scanner input = new Scanner(System.in);
